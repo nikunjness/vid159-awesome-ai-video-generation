@@ -73,6 +73,7 @@ Tools that accept combinations of text, reference images, reference video, and a
 
 ### AI Avatars & Lip Sync
 
+- [FreyaVideo Live Face Swap](https://freyavideo.com/live-face-swap?utm_source=github.com&utm_medium=referral&utm_campaign=lfs-promo) — Cloud-processed webcam character replacement and scene restyling in a browser, without a local GPU.
 - [HeyGen](https://www.heygen.com/) — AI avatar video with 175+ languages, Avatar IV motion-capture realism, and credit-based pricing.
 - [Synthesia](https://www.synthesia.io/) — Enterprise AI avatars with SOC 2 Type II compliance, designed for training and corporate communication.
 - [Tavus](https://www.tavus.io/) — Hyper-personalized avatar video and conversational video API for sales and product workflows.
